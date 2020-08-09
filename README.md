@@ -16,11 +16,21 @@ First of all, welcome to my Github page.
 
 ---
 
-<img src="https://github.com/lucasluc4/lucasluc4/blob/master/lucarmaia7.svg" height="250px" align="right" /> 
+<img src="https://github.com/lucasluc4/lucasluc4/blob/master/lucarmaia4.svg" height="250px" align="right" /> 
 
 ### Some of my main repositories
 
 - [My React Cognito App](https://github.com/lucasluc4/my-react-cognito-app) is a sample application that demonstrates how to connect a React application to AWS Cognito using Amplify. It's a companion repository for my article at Medium, currently available only in Portuguese 🇧🇷 
+
+---
+
+<img src="https://github.com/lucasluc4/lucasluc4/blob/master/lucarmaia5.svg" height="200px" align="left" /> 
+
+### I’m currently learning 🌱
+
+Kubernetes, Microsservices Architecture and Product Development
+
+
 
 
 <!--
