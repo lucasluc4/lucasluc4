@@ -2,11 +2,13 @@
 
 <table border="0">
   <tr>
-    <img src="https://github.com/lucasluc4/lucasluc4/blob/master/lucarmaia6.svg" height="300px" />
-  </tr>
-  <tr>
-    Hi! First of all, welcome to my Github.
+    <td>
+      <img src="https://github.com/lucasluc4/lucasluc4/blob/master/lucarmaia6.svg" height="300px" />
+    </td>
+    <td>
+      Hi! First of all, welcome to my Github.
     Let me try to introduce myself and to present you my repositories.
+    </td>
   </tr>
 </table>
 
