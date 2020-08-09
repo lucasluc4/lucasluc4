@@ -12,6 +12,7 @@ First of all, welcome to my Github page.
 
 :notebook: I've studied Computer and Telecommunications Engineering at Universidade Federal do Ceará and Télécom Saint-Étienne, and Project Management at Fundação Getúlio Vargas
 </samp>
+<br />
 
 ---
 
