@@ -38,7 +38,7 @@ First of all, welcome to my Github page.
 
 <img src="https://github.com/lucasluc4/lucasluc4/blob/master/lucarmaia7.svg" height="150px" align="right" /> 
 
-### Find my online :mailbox_with_mail:
+### Find me online :mailbox_with_mail:
 
 :briefcase: https://www.linkedin.com/in/lucascmaia/
 
