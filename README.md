@@ -10,7 +10,7 @@ First of all, welcome to my Github page.
   
 :house: I'm from Fortaleza, Brazil, but I've already lived in Saint-Étienne 🇫🇷, Curitiba 🇧🇷, and I'm currently living in São Paulo 🇧🇷 
 
-:notebook: I've studied Computer and Telecomunnications Engineering at Universidade Federal do Ceará and Télécom Saint-Étienne, and Project Management at Fundação Getúlio Vargas
+:notebook: I've studied Computer and Telecommunications Engineering at Universidade Federal do Ceará and Télécom Saint-Étienne, and Project Management at Fundação Getúlio Vargas
 </samp>
 
 
