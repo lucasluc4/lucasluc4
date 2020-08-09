@@ -4,7 +4,9 @@
 
 First of all, welcome to my Github page.
 
-💻  I'm a Software Engineer  
+<samp>
+:computer:  I'm a Software Engineer  
+</samp>
 
 
 
