@@ -1,10 +1,10 @@
 ## Lucas Maia 👋 :bowtie:
 
-Hi! First of all, welcome to my *Github*.
+Hi! First of all, welcome to my Github.
 
 Let me try to introduce myself and to present you my repositories.
 
-![Alt text](https://github.com/lucasluc4/lucasluc4/blob/master/lucarmaia6.svg)
+<img src="https://github.com/lucasluc4/lucasluc4/blob/master/lucarmaia6.svg" height="300px" />
 
 <!--
 **lucasluc4/lucasluc4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
