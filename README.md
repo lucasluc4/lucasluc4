@@ -34,6 +34,13 @@ First of all, welcome to my Github page.
 
 - Delivering value, and to bring together awesome and beautiful products along with a sustainable software structure
 
+### I've already worked with :coffee:
+
+- Java and Kotlin, with and without Spring
+- React and Redux
+- AngularJS
+- React Native using Expo
+
 ---
 
 <img src="https://github.com/lucasluc4/lucasluc4/blob/master/lucarmaia7.svg" height="150px" align="right" /> 
