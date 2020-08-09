@@ -1,8 +1,10 @@
 ## Lucas Maia 👋 :bowtie:
 
 
-<img src="https://github.com/lucasluc4/lucasluc4/blob/master/lucarmaia6.svg" height="300px" /> Hi! First of all, welcome to my Github.
-    Let me try to introduce myself and to present you my repositories.
+<img src="https://github.com/lucasluc4/lucasluc4/blob/master/lucarmaia6.svg" height="300px" align="left" /> 
+Hi! First of all, welcome to my Github.
+
+Let me try to introduce myself and to present you my repositories. 
 
 
 
