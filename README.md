@@ -5,7 +5,7 @@
 First of all, welcome to my Github page.
 
 <samp>
-:computer:  I'm a Software Engineer at [@ViaVarejo](https://www.linkedin.com/company/viavarejo), one of the biggest retailers in Brazil 
+:computer:  I'm a Software Engineer at [ViaVarejo](https://www.linkedin.com/company/viavarejo), one of the biggest retailers in Brazil 
 </samp>
 
 
