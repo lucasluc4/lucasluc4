@@ -13,7 +13,13 @@ First of all, welcome to my Github page.
 :notebook: I've studied Computer and Telecommunications Engineering at Universidade Federal do Ceará and Télécom Saint-Étienne, and Project Management at Fundação Getúlio Vargas
 </samp>
 
+---
 
+<img src="https://github.com/lucasluc4/lucasluc4/blob/master/lucarmaia7.svg" height="250px" align="right" /> 
+
+### Some of my main repositories
+
+- [My React Cognito App](https://github.com/lucasluc4/my-react-cognito-app) is a sample application that demonstrates how to connect a React application to AWS Cognito using Amplify. It's a companion repository for my article at Medium, currently available in Portuguese 🇧🇷 
 
 
 <!--
