@@ -5,7 +5,10 @@
 First of all, welcome to my Github page.
 
 <samp>
+  
 :computer:  I'm a Software Engineer at ViaVarejo, one of the biggest retailers in Brazil
+  
+:house: I'm from Fortaleza, Brazil, but I've already lived in Saint-Étienne 🇫🇷, Curitiba 🇧🇷, and I'm currently living in São Paulo 🇧🇷 
 </samp>
 
 
