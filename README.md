@@ -24,7 +24,7 @@ First of all, welcome to my Github page.
 
 ---
 
-<img src="https://github.com/lucasluc4/lucasluc4/blob/master/lucarmaia5.svg" height="200px" align="left" /> 
+<img src="https://github.com/lucasluc4/lucasluc4/blob/master/lucarmaia5.svg" height="250px" align="left" /> 
 
 ### I’m currently learning 🌱
 
