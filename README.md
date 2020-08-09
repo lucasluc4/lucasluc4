@@ -2,12 +2,9 @@
 
 ### Hi, I'm Lucas Maia 👋 :bowtie:
 
-Hi! First of all, welcome to my Github page.
+First of all, welcome to my Github page.
 
-### @lucasluc4
-
-Let me try to introduce myself and to present you with my repositories. 
-
+:computer: I'm a Software Engineer  
 
 
 
