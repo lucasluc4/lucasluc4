@@ -1,4 +1,4 @@
-## Lucas Maia 👋
+## Lucas Maia 👋 :bowtie:
 
 Hi! First of all, welcome to my *Github*.
 
