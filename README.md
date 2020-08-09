@@ -22,6 +22,8 @@ First of all, welcome to my Github page.
 
 - [My React Cognito App](https://github.com/lucasluc4/my-react-cognito-app) is a sample application that demonstrates how to connect a React application to AWS Cognito using Amplify. It's a companion repository for my article at [Medium](https://medium.com/@lucaslucm/usando-o-aws-cognito-como-servi%C3%A7o-de-autentica%C3%A7%C3%A3o-com-react-e-spring-33b5ac2e7448), currently available only in Portuguese 🇧🇷 
 
+- [Temptunes](https://github.com/lucasluc4/temptunes) is a study repository about a high availability API sharing a third-party API authentication token using Redis 
+
 ---
 
 <img src="https://github.com/lucasluc4/lucasluc4/blob/master/lucarmaia5.svg" height="250px" align="left" /> 
