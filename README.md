@@ -4,7 +4,7 @@ Hi! First of all, welcome to my *Github*.
 
 Let me try to introduce myself and to present you my repositories.
 
-![Alt text](./lucarmaia6.svg)
+![Alt text](https://github.com/lucasluc4/lucasluc4/blob/master/lucarmaia6.svg)
 
 <!--
 **lucasluc4/lucasluc4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
