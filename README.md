@@ -28,10 +28,11 @@ First of all, welcome to my Github page.
 
 ### I’m currently learning 🌱
 
-Kubernetes, Microsservices Architecture and Product Development
+- Kubernetes, Microsservices Architecture and Product Development
 
+### I’m passionate about :hearts:
 
-
+- Delivering value, and to bring together awesome and beautiful products along with a sustainable software structure
 
 <!--
 **lucasluc4/lucasluc4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
