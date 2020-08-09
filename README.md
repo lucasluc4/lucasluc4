@@ -20,7 +20,7 @@ First of all, welcome to my Github page.
 
 ### Some of my main repositories
 
-- [My React Cognito App](https://github.com/lucasluc4/my-react-cognito-app) is a sample application that demonstrates how to connect a React application to AWS Cognito using Amplify. It's a companion repository for my article at Medium, currently available only in Portuguese 🇧🇷 
+- [My React Cognito App](https://github.com/lucasluc4/my-react-cognito-app) is a sample application that demonstrates how to connect a React application to AWS Cognito using Amplify. It's a companion repository for my article at [Medium](https://medium.com/@lucaslucm/usando-o-aws-cognito-como-servi%C3%A7o-de-autentica%C3%A7%C3%A3o-com-react-e-spring-33b5ac2e7448), currently available only in Portuguese 🇧🇷 
 
 ---
 
