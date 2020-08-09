@@ -28,11 +28,27 @@ First of all, welcome to my Github page.
 
 ### I’m currently learning 🌱
 
-- Kubernetes, Microsservices Architecture and Product Development
+- Kubernetes, Microservices Architecture and Product Development
 
 ### I’m passionate about :hearts:
 
 - Delivering value, and to bring together awesome and beautiful products along with a sustainable software structure
+
+---
+
+<img src="https://github.com/lucasluc4/lucasluc4/blob/master/lucarmaia7.svg" height="150px" align="right" /> 
+
+### Find my online :mailbox_with_mail:
+
+:briefcase: https://www.linkedin.com/in/lucascmaia/
+
+:book: https://medium.com/@lucaslucm
+
+:email: lucaslucm@gmail.com
+
+---
+
+The illustrations presented on this page were built using [OpenPeeps](https://www.openpeeps.com/)
 
 <!--
 **lucasluc4/lucasluc4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
