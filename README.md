@@ -24,7 +24,7 @@ First of all, welcome to my Github page.
 
 - [Temptunes](https://github.com/lucasluc4/temptunes) is a study repository about a high availability API sharing a third-party API authentication token using Redis 
 
-- [jenetics-array-sum](https://github.com/lucasluc4/jenetics-array-sum) is a study repository of Jenetics, which is a Java library for genetic algorithms
+- [Restituicao Optimizer](https://github.com/lucasluc4/restituicaooptimizer) is a study repository that tries to optimize a non-linear function of grouping a set of revenue declarations to reduce the amount of taxes payed in Brazil. It uses Jenetics, which is a genetics algorithms library for Java.
 
 ---
 
