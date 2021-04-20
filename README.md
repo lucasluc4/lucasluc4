@@ -6,7 +6,7 @@ First of all, welcome to my Github page.
 
 <samp>
   
-:computer:  I'm a Software Engineer at ViaVarejo, one of the biggest retailers in Brazil, but most part of my life I've worked in Startups. I've started my career as a developer in 2013.
+:computer:  I'm a Software Engineer at Quintoandar, the biggest company in Brazil to buy or rent a home, and most part of my life I've worked in Startups. I've started my career as a developer in 2013.
   
 :house: I'm from Fortaleza, Brazil, but I've already lived in Saint-Étienne 🇫🇷, Curitiba 🇧🇷, and I'm currently living in São Paulo 🇧🇷 
 
