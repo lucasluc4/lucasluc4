@@ -6,7 +6,7 @@ First of all, welcome to my Github page.
   
 :computer:  I'm a Software Engineer at Quintoandar, the biggest company in Brazil to buy or rent a home, and most part of my life I've worked in Startups. I've started my career as a developer in 2013.
   
-:house: I'm from Fortaleza, Brazil, but I've already lived in Saint-Étienne 🇫🇷, Curitiba 🇧🇷, and I'm currently living in São Paulo 🇧🇷 
+:house: I'm from Fortaleza, Brazil, but I've already lived in Saint-Étienne 🇫🇷, Curitiba 🇧🇷, São Paulo 🇧🇷 and I'm currently back to my hometown, working from home.
 
 :notebook: I've studied Computer and Telecommunications Engineering at Universidade Federal do Ceará and Télécom Saint-Étienne, and Project Management at Fundação Getúlio Vargas
 </samp>
