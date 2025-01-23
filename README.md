@@ -1,5 +1,3 @@
-<img src="https://github.com/lucasluc4/lucasluc4/blob/master/lucarmaia6.svg" height="300px" align="left" /> 
-
 ### Hi, I'm Lucas Maia 👋 :bowtie:
 
 First of all, welcome to my Github page.
@@ -16,8 +14,6 @@ First of all, welcome to my Github page.
 
 ---
 
-<img src="https://github.com/lucasluc4/lucasluc4/blob/master/lucarmaia4.svg" height="250px" align="right" /> 
-
 ### Some of my main repositories
 
 - [My React Cognito App](https://github.com/lucasluc4/my-react-cognito-app) is a sample application that demonstrates how to connect a React application to AWS Cognito using Amplify. It's a companion repository for my article at [Medium](https://medium.com/@lucaslucm/usando-o-aws-cognito-como-servi%C3%A7o-de-autentica%C3%A7%C3%A3o-com-react-e-spring-33b5ac2e7448), currently available only in Portuguese 🇧🇷 
@@ -27,8 +23,6 @@ First of all, welcome to my Github page.
 - [Restituicao Optimizer](https://github.com/lucasluc4/restituicaooptimizer) is a study repository that tries to optimize a non-linear function of grouping a set of revenue declarations to reduce the amount of taxes payed in the brazilian system. It uses Jenetics, which is a genetic algorithm library for Java.
 
 ---
-
-<img src="https://github.com/lucasluc4/lucasluc4/blob/master/lucarmaia5.svg" height="250px" align="left" /> 
 
 ### I’m currently learning 🌱
 
@@ -50,8 +44,6 @@ First of all, welcome to my Github page.
 
 ---
 
-<img src="https://github.com/lucasluc4/lucasluc4/blob/master/lucarmaia7.svg" height="150px" align="right" /> 
-
 ### Find me online :mailbox_with_mail:
 
 :briefcase: https://www.linkedin.com/in/lucascmaia/
@@ -60,11 +52,9 @@ First of all, welcome to my Github page.
 
 :email: lucaslucm@gmail.com
 
-I can answer in Portuguese, English and French
+I can answer in Portuguese, English, French and Spanish
 
 ---
-
-The illustrations presented on this page were built using [OpenPeeps](https://www.openpeeps.com/)
 
 <!--
 **lucasluc4/lucasluc4** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
