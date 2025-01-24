@@ -48,9 +48,9 @@ First of all, welcome to my Github page.
 
 :briefcase: https://www.linkedin.com/in/lucascmaia/
 
-:book: https://medium.com/@lucaslucm
+:book: https://www.lucasmaia.dev
 
-:email: lucaslucm@gmail.com
+:email: contato@lucasmaia.dev
 
 I can answer in Portuguese, English, French and Spanish
 
