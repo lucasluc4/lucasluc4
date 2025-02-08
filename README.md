@@ -4,7 +4,7 @@ First of all, welcome to my Github page. My pronouns are He/Him.
 
 <samp>
   
-:computer:  I'm a Software Engineer at Quintoandar, the biggest real estate company in Latin America and the best place to buy, sell or rent a home, and most part of my life I've worked in Startups. I've started my career as a developer in 2013.
+:computer:  I'm a Software Engineer at Quintoandar, the biggest real estate company in Latin America and the best place to buy, sell or rent a home. I've started my career as a developer in 2013, and most part of my life I've worked in Startups.
   
 :house: I'm from Fortaleza, Brazil, but I've already lived in Saint-Étienne 🇫🇷, Curitiba 🇧🇷, São Paulo 🇧🇷 and I'm currently back to my hometown, working from home.
 
