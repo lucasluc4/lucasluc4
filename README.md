@@ -1,6 +1,6 @@
 ### Hi, I'm Lucas Maia 👋 :bowtie:
 
-First of all, welcome to my Github page.
+First of all, welcome to my Github page. My pronouns are He/Him.
 
 <samp>
   
@@ -11,6 +11,13 @@ First of all, welcome to my Github page.
 :notebook: I've studied Computer and Telecommunications Engineering at Universidade Federal do Ceará and Télécom Saint-Étienne, and Project Management at Fundação Getúlio Vargas
 </samp>
 <br />
+
+---
+### My main projects 🔭
+
+- I have a blog built in Hugo and hosted in Github pages and can be accessed at https://www.lucasmaia.dev. It's open source and you can access the repo clicking [here](https://github.com/lucasluc4/lucasmaiadev-blog)
+
+- I have an application for personal finances that can be accessed at https://meubolso.lucasmaia.dev
 
 ---
 
