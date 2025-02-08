@@ -15,7 +15,7 @@ First of all, welcome to my Github page. My pronouns are He/Him.
 ---
 ### My main projects 🔭
 
-- I have a blog built in Hugo and hosted in Github pages and can be accessed at https://lucasmaia.dev. It's open source and you can access the repo clicking [here](https://github.com/lucasluc4/lucasmaiadev-blog)
+- I have a blog built with Hugo and hosted in Github pages and can be accessed at https://lucasmaia.dev. It's open source and you can access the repo clicking [here](https://github.com/lucasluc4/lucasmaiadev-blog)
 
 - I have an application for personal finances that can be accessed at https://meubolso.lucasmaia.dev . You can find more info [in my blog](https://www.lucasmaia.dev/post/aplicacao-meu-bolso/). 
 
